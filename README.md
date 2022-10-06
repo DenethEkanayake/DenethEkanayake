@@ -2,4 +2,4 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning ...
 
-Subscribe My youtube channel - youtube.com/SLDTips
+I am Interested In Front-End Web Developing
