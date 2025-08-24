@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @DenethEkanayake
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in CyberSec/Computer Hacking!
+- 🌱 Currently /dev/null ing all of my Distractions!
+- Check My Stats Here - https://tryhackme.com/p/DenethEkanayake
